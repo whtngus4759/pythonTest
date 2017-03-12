@@ -8,8 +8,6 @@ sleepy= False
 # this is comment!
 
 
-
-:: second 
 print(type(hungry))
 
 print(hungry and sleepy)

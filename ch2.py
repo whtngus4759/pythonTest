@@ -6,10 +6,6 @@ print(w*x)
 print(np.sum(w*x))
 print(np.sum(w*x)+b)
 
-
-::: branch develop
-::: first commit
-
 def AND(x1,x2):
 	x= np.array([x1,x2])
 	w= np.array([0.5,0.5])
